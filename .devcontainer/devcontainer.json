@@ -1,0 +1,9 @@
+{
+    "name": "Return Function",
+    "extensions": [
+        "esbenp.prettier-vscode",
+        "ms-vsliveshare.vsliveshare",
+        "ms-vscode.live-server"
+    ],
+    "postCreateCommand": "npm install"
+  }
